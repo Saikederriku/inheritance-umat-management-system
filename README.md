@@ -18,14 +18,14 @@ Models people at UMaT using a parent class (`Person`) and two child classes (`St
 
 ```
 --- Student ---
-Name: Kwame, Age: 20
-Student ID: S12345
-Kwame enrolled in OOP
+Name: KENNETH DAVID KORLEY KISSEIH , Age: 18
+Student ID: FOE.41.006.097.25
+KENNETH DAVID KORLEY KISSEIH enrolled in Object Oriented Programming
 
 --- Lecturer ---
-Name: Dr. Cobbinah, Age: 45
-Employee ID: E98765
-Dr. Cobbinah is teaching OOP
+Name: Dr. Cobbinah Matthew, Age: 45
+Employee ID: I DON'T KNOW
+Dr. Cobbinah Matthew is teaching Object Oriented Programming
 ```
 
 ## Key Features
